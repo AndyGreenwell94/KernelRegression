@@ -1,2 +1,2 @@
 # KernelRegression
-Kernel regressin in sklearn style
+Kernel regression in sklearn style
